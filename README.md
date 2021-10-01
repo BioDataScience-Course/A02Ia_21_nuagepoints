@@ -6,9 +6,6 @@ Les consignes reprises dans ce document, ainsi que dans les différents fichiers
 
 Ce projet se découpe en deux parties. Ce projet nécessite d'avoir assimilé l'ensemble des notions du second module du cours de Science des données biologiques 1.
 
-
-Il est possible que ce document évolue au cours du temps. N'hésitez pas à aller vérifier le lien suivant afin de voir les modifications dans les consignes : <https://github.com/BioDataScience-Course/A02Ga_nuagepoints>
-
 ## Objectif
 
 Ce projet est un projet **individuel**, **court** et **cadré** qui doit être **terminé pour la fin du module 2**.  
