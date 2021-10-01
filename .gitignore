@@ -43,3 +43,6 @@ vignettes/*.pdf
 docs/*.html
 docs/*.pdf
 docs/*.nb.html
+
+# README
+README.html
